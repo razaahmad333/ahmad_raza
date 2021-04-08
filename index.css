@@ -1,0 +1,32 @@
+.myText {
+    font-family: 'Rancho', serif;
+    font-size: 48px;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Josefin sans', cursive;
+}
+
+.thankyout{
+    font-family: 'Calligraffitti', cursive;
+}
+
+.contact-texts {
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+}
+
+.button-texts {
+    /*font-family: 'Assistant', sans-serif;*/
+    font-family: 'Concert One', cursive;
+}
+
+.ahmadRaza {
+    font-family: 'Merienda', cursive;
+}
+
+.nav-texts {
+    font-family: 'Josefin sans', cursive;
+    font-size: 111px;
+}
